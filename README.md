@@ -1,1 +1,43 @@
-<body class="c5"><p class="c2"><span class="c0"># frikirkja-remote</span></p><p class="c2"><span class="c0">MIDI Control Application for Pipe Organ</span></p><p class="c2 c4"><span class="c0"></span></p><p class="c2 c4"><span class="c0"></span></p><p class="c2"><span class="c0">LEI&ETH;BEININGAR</span></p><p class="c2 c4"><span class="c0"></span></p><p class="c2 c4"><span class="c0"></span></p><p class="c2"><span class="c0">h&eacute;rna er fyrsta skyssa, versj&oacute;n 11.</span></p><p class="c2"><span class="c0">&thorn;a&eth; er er komi&eth; &iacute; gang er:</span></p><ul class="c3 lst-kix_wa82o1g9odig-0 start"><li class="c1"><span class="c0">stoppin, h&aelig;gt a&eth; smella me&eth; m&uacute;sinni til a&eth; breyta (og senda &uacute;t vi&eth;eigandi Control Change)</span></li><li class="c1"><span class="c0">crescendo</span></li><li class="c1"><span class="c0">schwellwerk 1 og 2</span></li><li class="c1"><span class="c0">n&oacute;tur eru &aacute;framsendar &aacute; mismunandi bor&eth;</span></li><li class="c1"><span class="c0">combinasj&oacute;nir</span></li></ul><p class="c2"><span class="c0">&thorn;a&eth; sem er ekki enn komi&eth; er:</span></p><ul class="c3 lst-kix_ahh1dsfjn2ms-0 start"><li class="c1"><span class="c0">split keyboard</span></li><li class="c1"><span class="c0">midi eventar (blikk) &aacute; keyboard</span></li><li class="c1"><span class="c0">panik takki</span></li><li class="c1"><span class="c0">velja mismunandi MIDI interface</span></li><li class="c1"><span class="c0">og fleira</span></li></ul><p class="c2"><span class="c0">notkunarlei&eth;beiningar:</span></p><ul class="c3 lst-kix_ul0cj2neo1hq-0 start"><li class="c1"><span class="c0">&ouml;rvatakkarnir vinstri/h&aelig;gri skipta &aacute; milli swell1/swell2/crescendo</span></li><li class="c1"><span class="c0">&ouml;rvatakkarnir upp/ni&eth;ur skipta &aacute; milli hlj&oacute;mbor&eth;a</span></li><li class="c1"><span class="c0">hva&eth;a control change sem er breytir gildi crescendo og schwell (virkar b&aelig;&eth;i me&eth; pedal, sn&uacute;ningst&ouml;kkum og sle&eth;um)</span></li><li class="c1"><span class="c0">takkar &aacute; lyklabor&eth;i skipta um combinasj&oacute;n</span></li><li class="c1"><span class="c0">ESC takkinn slekkur &aacute; forritinu</span></li></ul><p class="c2"><span class="c0">innsetning:</span></p><ul class="c3 lst-kix_p2v1vfcxo2pw-0 start"><li class="c1"><span class="c0">virkar &aacute; mac os 10.10 (ath fleiri kerfi)</span></li><li class="c1"><span class="c0">&thorn;arf java &nbsp;https://java.com/en/download/</span></li><li class="c1"><span class="c0">mappan sem heitir &#39;presets&#39; &thorn;arf a&eth; vera &iacute; s&ouml;mu m&ouml;ppu</span></li><li class="c1"><span class="c0">&thorn;arf USB-MIDI interface fr&aacute; Conrad Electronic (sent fr&aacute; Berl&iacute;n til Rvk)</span></li></ul><p class="c2 c4"><span class="c0"></span></p><p class="c2 c4"><span class="c0"></span></p></body></html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <p># frikirkja-remote</p>
+  <p>MIDI Control Application for Pipe Organ</p>
+  <p>LEIÐBEININGAR</p>
+  <p>hérna er fyrsta skyssa, versjón 11.</p>
+  <p>það er er komið í gang er:</p>
+  <ul>
+    <li>stoppin, hægt að smella með músinni til að breyta (og senda út viðeigandi Control Change)</li>
+    <li>crescendo</li>
+    <li>schwellwerk 1 og 2</li>
+    <li>nótur eru áframsendar á mismunandi borð</li>
+    <li>combinasjónir</li>
+  </ul>
+  <p>það sem er ekki enn komið er:</p>
+  <ul>
+    <li>split keyboard</li>
+    <li>midi eventar (blikk) á keyboard</li>
+    <li>panik takki</li>
+    <li>velja mismunandi MIDI interface</li>
+    <li>og fleira</li>
+  </ul>
+  <p>notkunarleiðbeiningar:</p>
+  <ul>
+    <li>örvatakkarnir vinstri/hægri skipta á milli swell1/swell2/crescendo</li>
+    <li>örvatakkarnir upp/niður skipta á milli hljómborða</li>
+    <li>hvaða control change sem er breytir gildi crescendo og schwell (virkar bæði með pedal, snúningstökkum og sleðum)</li>
+    <li>takkar á lyklaborði skipta um combinasjón</li>
+    <li>ESC takkinn slekkur á forritinu</li>
+  </ul>
+  <p>innsetning:</p>
+  <ul>
+    <li>virkar á mac os 10.10 (ath fleiri kerfi)</li>
+    <li>þarf java &nbsp;https://java.com/en/download/</li>
+    <li>mappan sem heitir 'presets' þarf að vera í sömu möppu</li>
+    <li>þarf USB-MIDI interface frá Conrad Electronic (sent frá Berlín til Rvk)</li>
+  </ul>
+</body>
+</html>
