@@ -7,36 +7,47 @@
   <p># frikirkja-remote</p>
   <p>MIDI Control Application for Pipe Organ</p>
   <p></p>
-  <p>Það sem er komið í gang:</p>
+  <p>functionality</p>
   <ul>
-    <li>stoppin</li>
-    <li>crescendo</li>
+    <li>stops</li>
+    <li>crescendo pedal 1</li>
     <li>schwellwerk 1 og 2</li>
-    <li>nótur eru áframsendar á mismunandi borð</li>
-    <li>combinasjónir</li>
+    <li>notes forwarded to selected keyboard channel</li>
+    <li>combinations (saved to computer keybard keyes)</li>
     <li>split keyboard</li>
-    <li>midi eventar (blikk) á keyboard</li>
-    <li>velja mismunandi MIDI interface</li>
+    <li>midi events, green blink</li>
+    <li>select MIDI interface</li>
+    <li>panic button</li>
   </ul>
-  <p>það sem er ekki enn komið er:</p>
+  <p>todo</p>
   <ul>
-    <li>panik takki</li>
-    <li>og fleira</li>
+  <li>crescendo pedal 2, data</li>
+    <li> note events on display. fix.  </li>
+    <li> combinations, display preset info </li>
+    <li>fix panicButton display </li>
+    <li></li>
   </ul>
-  <p>notkunarleiðbeiningar:</p>
+  <p>instructions:</p>
   <ul>
-    <li>örvatakkarnir vinstri/hægri skipta á milli swell1/swell2/crescendo</li>
-    <li>örvatakkarnir upp/niður skipta á milli hljómborða</li>
-    <li>hvaða control change sem er breytir gildi crescendo og schwell (virkar bæði með pedal, snúningstökkum og sleðum)</li>
-    <li>takkar á lyklaborði skipta um combinasjón</li>
-    <li>ESC takkinn slekkur á forritinu</li>
+    <li>computer keyboard arrow keyes (left/right) switch between swell1/swell2/crescendo.  incoming control messages are directed to the selected effect</li>
+    <li>computer keyboard arrow keyes (up/down) switch between organ keyboards/pedalboard (Schwellwerk, Hauptwerk, Rückpositiv, Pedal).  incoming MIDI note-on messages are directed to the selected keyboard/pedalboard</li>
+    <li>computer keyboard buttons select voice combination</li>
+    <li>mouse-click on SAVE button to save a combination to a computer keyboard button</li>
+    <li>mouse-click on MIDI-IN or MIDI-OUT buttons to select MIDI device</li>
+     <li>mouse-click on PANIC button or press SPACE key to send NOTE-OFF message to all channels</li>
+    <li>press ESC key to quit</li>
   </ul>
-  <p>innsetning:</p>
+  <p>installation:</p>
   <ul>
-    <li>virkar á mac os 10.10 (ath fleiri kerfi)</li>
-    <li>þarf java &nbsp;https://java.com/en/download/</li>
-    <li>mappan sem heitir 'presets' þarf að vera í sömu möppu</li>
-    <li>þarf MIDI interface</li>
+    <li> mac os 10.10 or higher required</li>
+    <li>MIDI interface is required</li>
+    <li>first download JAVA https://java.com/en/download/</li>
+    <li>download latest version of Frikirkja-Remote</li>
+    <li>Unzip</li>
+    <li>Right-click and press OPEN</li>
+    <li>approve that the software is from an unknown developer</li>
+    <li>the 'presets' folder needs to be in the same folder as the application</li>
+    
   </ul>
 </body>
 </html>
