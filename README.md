@@ -7,6 +7,19 @@
   <p># frikirkja-remote</p>
   <p>MIDI Control Application for Pipe Organ</p>
   <p></p>
+   <p>installation:</p>
+  <ul>
+    <li> mac os 10.10 or higher required</li>
+    <li>MIDI interface is required</li>
+    <li>first download JAVA https://java.com/en/download/</li>
+    <li>download latest version of Frikirkja-Remote</li>
+    <li>Unzip</li>
+    <li>Right-click and press OPEN</li>
+    <li>approve that the software is from an unknown developer</li>
+    <li>the 'presets' folder needs to be in the same folder as the application</li>
+    
+  </ul>
+  
   <p>functionality</p>
   <ul>
     <li>stops</li>
@@ -27,7 +40,7 @@
     <li>fix panicButton display </li>
     <li></li>
   </ul>
-  <p>instructions:</p>
+  <p>instructions for use:</p>
   <ul>
     <li>computer keyboard arrow keyes (left/right) switch between swell1/swell2/crescendo.  incoming control messages are directed to the selected effect</li>
     <li>computer keyboard arrow keyes (up/down) switch between organ keyboards/pedalboard (Schwellwerk, Hauptwerk, Rückpositiv, Pedal).  incoming MIDI note-on messages are directed to the selected keyboard/pedalboard</li>
@@ -37,17 +50,6 @@
      <li>mouse-click on PANIC button or press SPACE key to send NOTE-OFF message to all channels</li>
     <li>press ESC key to quit</li>
   </ul>
-  <p>installation:</p>
-  <ul>
-    <li> mac os 10.10 or higher required</li>
-    <li>MIDI interface is required</li>
-    <li>first download JAVA https://java.com/en/download/</li>
-    <li>download latest version of Frikirkja-Remote</li>
-    <li>Unzip</li>
-    <li>Right-click and press OPEN</li>
-    <li>approve that the software is from an unknown developer</li>
-    <li>the 'presets' folder needs to be in the same folder as the application</li>
-    
-  </ul>
+ 
 </body>
 </html>
