@@ -11,11 +11,11 @@
   <ul>
     <li> mac os 10.10 or higher required</li>
     <li>MIDI interface is required</li>
-    <li>first download JAVA https://java.com/en/download/</li>
+    <li>first download JAVA: https://java.com/en/download/</li>
     <li>download latest version of Frikirkja-Remote</li>
     <li>Unzip</li>
     <li>Right-click and press OPEN</li>
-    <li>approve that the software is from an unknown developer</li>
+    <li>approve that the software is from an "unknown developer"</li>
     <li>the 'presets' folder needs to be in the same folder as the application</li>
     
   </ul>
@@ -45,9 +45,9 @@
     <li>computer keyboard arrow keyes (left/right) switch between swell1/swell2/crescendo.  incoming control messages are directed to the selected effect</li>
     <li>computer keyboard arrow keyes (up/down) switch between organ keyboards/pedalboard (Schwellwerk, Hauptwerk, Rückpositiv, Pedal).  incoming MIDI note-on messages are directed to the selected keyboard/pedalboard</li>
     <li>computer keyboard buttons select voice combination</li>
-    <li>mouse-click on SAVE button to save a combination to a computer keyboard button</li>
-    <li>mouse-click on MIDI-IN or MIDI-OUT buttons to select MIDI device</li>
-     <li>mouse-click on PANIC button or press SPACE key to send NOTE-OFF message to all channels</li>
+    <li>press SAVE button to save a combination to a computer keyboard button</li>
+    <li>press MIDI-IN or MIDI-OUT buttons to select MIDI device</li>
+     <li>press PANIC button (or SPACE BAR) to send NOTE-OFF message to all channels</li>
     <li>press ESC key to quit</li>
   </ul>
  
