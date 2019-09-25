@@ -23,22 +23,26 @@
   <p>functionality</p>
   <ul>
     <li>stops</li>
-    <li>crescendo pedal 1</li>
-    <li>schwellwerk 1 og 2</li>
+    <li>crescendo pedal 1 and 2</li>
+    <li>schwellwerk 1 and 2</li>
     <li>notes forwarded to selected keyboard channel</li>
     <li>combinations (saved to computer keybard keyes)</li>
-    <li>split keyboard</li>
+    <li>split keyboard (fixed point)</li>
     <li>midi events, green blink</li>
     <li>select MIDI interface</li>
     <li>panic button</li>
   </ul>
   <p>todo</p>
   <ul>
-  <li>crescendo pedal 2, data</li>
     <li> note events on display. fix.  </li>
-    <li> combinations, display preset info </li>
-    <li>fix panicButton display </li>
-    <li></li>
+    <li> combinations display info </li>
+    <li> fix panicButton display </li>
+    <li> fixed control nr for cresc/scwell pedal</li>
+    <li> sub-cresc on draw-bar sliders</li>
+    <li> knobs for direct control (cresc1, cresc2, schwell1, schwell2)</li>
+    <li> sustain pedal (note-off on pedal release)</li>
+    <li> variable split point</li>
+    <li> measure delay, check del() function</li>
   </ul>
   <p>instructions for use:</p>
   <ul>
