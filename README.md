@@ -60,9 +60,9 @@
     jan 2025
     
     check midibus compatability with Processing 4  - https://discourse.processing.org/t/does-themidibus-library-work-in-processing-4/31851/6
-  
-    
   </p>
+
+  ![Alt text](Screenshot.png?raw=true "screenshot")
  
 </body>
 </html>
