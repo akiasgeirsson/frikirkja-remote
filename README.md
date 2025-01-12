@@ -7,18 +7,8 @@
   <p># frikirkja-remote</p>
   <p>MIDI Control Application for Pipe Organ</p>
   <p></p>
-   <p>installation:</p>
-  <ul>
-    <li> mac os 10.10 or higher required</li>
-    <li>MIDI interface is required</li>
-    <li>first download JAVA: https://java.com/en/download/</li>
-    <li>download latest version of Frikirkja-Remote</li>
-    <li>Unzip</li>
-    <li>Right-click and press OPEN</li>
-    <li>approve that the software is from an "unknown developer"</li>
-    <li>the 'presets' folder needs to be in the same folder as the application</li>
-    
-  </ul>
+
+  <p>..to control the organ in Frikirkjan from a remote midi keyboard.  project started in 2019 by Aki Asgeirsson</p>
   
   <p>functionality</p>
   <ul>
