@@ -9,6 +9,21 @@
   <p></p>
 
   <p>..to control the organ in Frikirkjan from a remote midi keyboard.  project started in 2019 by Aki Asgeirsson</p>
+
+<p>software</p>
+  <ul>
+    <li>processing</li>
+    <li>themidibus library</li>
+  </ul>
+
+  <p>hardware</p>
+  <ul>
+    <li>frikirkja pipe organ</li>
+    <li>midi keyboard, with control pedal or CC fader</li>
+    <li>laptop computer</li>
+    <li>midi interface and cables</li>
+  </ul>
+
   
   <p>functionality</p>
   <ul>
