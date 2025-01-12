@@ -54,6 +54,15 @@
      <li>press PANIC button (or SPACE BAR) to send NOTE-OFF message to all channels</li>
     <li>press ESC key to quit</li>
   </ul>
+
+  <p>
+    todo:
+    jan 2025
+    
+    check midibus compatability with Processing 4  - https://discourse.processing.org/t/does-themidibus-library-work-in-processing-4/31851/6
+  
+    
+  </p>
  
 </body>
 </html>
